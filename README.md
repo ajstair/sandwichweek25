@@ -1,6 +1,6 @@
 | Restaurant | Sandwich | Excitement Score | Review Score | Sandwich Description | Before You Go |
 |------------|----------|------------------|--------------|----------------------|-----------------|
-| Goat Tree | GT Egg Sandwich | 9 | | Soft-scrambled egg, pork belly, muenster & Tapatío aioli on house brioche — fork-and-knife brunch sando | Available 7 am-3 pm only |
+| Goat Tree | GT Egg Sandwich | 9 | 9 | Soft-scrambled egg, pork belly, muenster & Tapatío aioli on house brioche — fork-and-knife brunch sando | Available 7 am-3 pm only |
 | Blackbird | Buttermilk Brined Chicken Sandwich | 9 | | Fried chicken breast with roasted-garlic aioli, coleslaw, hot sauce & pickles on brioche | Dine-in only; Tue–Sat 5 pm-close |
 | Mission City Sandwich Shop | Tri-Tip Ahogada | 8 | | Smoked tri-tip, pepper Jack, black-bean bacon spread, avocado cilantro, iceberg & Rusty’s chili-lime chips with tomato-guajillo broth | — |
 | Sama San Roque | Vietnamese-French Dip | 8 | | Braised angus beef, Monterey Jack cheese sauce & caramelized onions on French bread with bo kho broth dip | Dine-in only |
