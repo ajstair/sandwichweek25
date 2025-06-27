@@ -4,7 +4,7 @@
 | Blackbird | Buttermilk Brined Chicken Sandwich | 9 | | Fried chicken breast with roasted-garlic aioli, coleslaw, hot sauce & pickles on brioche | Dine-in only; Tue–Sat 5 pm-close |
 | Mission City Sandwich Shop | Tri-Tip Ahogada | 8 | | Smoked tri-tip, pepper Jack, black-bean bacon spread, avocado cilantro, iceberg & Rusty’s chili-lime chips with tomato-guajillo broth | — |
 | Sama San Roque | Vietnamese-French Dip | 8 | | Braised angus beef, Monterey Jack cheese sauce & caramelized onions on French bread with bo kho broth dip | Dine-in only |
-| Three Pickles | Cuban & Italian Cold Cuts Our Way | 8 | | Cuban with roast pork, ham, Swiss, avocado & pickles • Italian with salami, ham, capicola, provolone & chopped veggies | Multiple locations |
+| Three Pickles | Cuban & Italian Cold Cuts Our Way | 8 | 7.5 & 7 | Cuban with roast pork, ham, Swiss, avocado & pickles • Italian with salami, ham, capicola, provolone & chopped veggies | Multiple locations |
 | Yellow Belly | YB Hog Wild | 8 | | Pulled pork, Swiss, house pickles & grain mustard on grilled bread | Dine-in only |
 | Del Pueblo Café | Pambazo | 7 | | Bolillo fried in chile sauce, stuffed with chorizo, potatoes, carrots, lettuce, queso fresco & crema | Dine-in only; Sun–Mon 11 am-1:30 pm • Tue–Sat 11 am-1:30 pm & 5-7 pm |
 | Gala Restaurant | Crispy Fried Chicken Sandwich | 7 | | Buttermilk-fried chicken, carrot-cabbage-herb slaw & raita on brioche | Dine-in only |
