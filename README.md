@@ -10,7 +10,7 @@
 | Gala Restaurant | Crispy Fried Chicken Sandwich | 7 | | Buttermilk-fried chicken, carrot-cabbage-herb slaw & raita on brioche | Dine-in only |
 | Gino’s Sicilian Express | Seven Panini Varieties | 7 | | Meatball, sausage, ham, turkey, salami, capocollo or veggie panini on pizza-crust bread with mozzarella & toppings | — |
 | S.B. Food Connection | Pesto Pluma | 7 | | Ciabatta with pesto, marinated chicken, mozzarella, sun-dried tomatoes & lettuce | — |
-| Validation Ale | Spicy Grilled Chicken & Gochujang Fried Chicken | 7 | | Grilled: chicken, poblano sauce, jalapeño jam, lettuce, tomato & cheese • Fried: pickle-brined thigh tossed in gochujang with coleslaw & spicy ranch | Grilled at Annex only; Gochujang weekdays at Funk Zone |
+| Validation Ale | Spicy Grilled Chicken & Gochujang Fried Chicken | 7 |6.5 & ? | Grilled: chicken, poblano sauce, jalapeño jam, lettuce, tomato & cheese • Fried: pickle-brined thigh tossed in gochujang with coleslaw & spicy ranch | Grilled at Annex only; Gochujang weekdays at Funk Zone |
 | Cristino’s Bakery | Chicken Chipotle Sandwich | 6 | | Oven-roasted chicken, pepper Jack, bacon, arugula, tomato & chipotle aioli on house Italian roll | Take-out only; while supplies last |
 | Crushcakes & Café | Yuli’s Deluxe | 6 | | Fried egg, crisp bacon, Jack, sautéed jalapeños, arugula & sriracha aioli on toasted brioche | — |
 | Dutch Garden | Givens Heirloom Tomato BLT | 6 | | Smoked-bacon BLT with ripe heirloom tomatoes, butter lettuce & sherry vinegar on grilled sourdough | Lunch only, Wed–Sun 11 am-3 pm |
